@@ -30,4 +30,5 @@ Este projeto foi desenvolvido e testado nas seguintes condições:
 <h4 align="justify">
 
 Sinta-se à vontade para clonar este repositório e executar o projeto em sua máquina local para praticar os conceitos apresentados durante o curso.💻
+
 Vamos juntos construir um ambiente mais colaborativo e enriquecedor, onde todos possam crescer e compartilhar conhecimento!🚀
