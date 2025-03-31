@@ -2,10 +2,14 @@
 
 <h1 align="center"> Desafio Controle de Fluxo</h1>
 
+<p align="center">
+  <img width="300" height="100" src="https://static.wixstatic.com/media/7a378f_5140deabd7d040378d740069cb692b87~mv2.png/v1/crop/x_0,y_10,w_1334,h_493/fill/w_568,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20DIO.png">
+</p>
+
 
 ## Descrição 
 <p align="justify">
-Este repositório contém o projeto "DesafioControleDeFluxo" desenvolvido como parte do Módulo "Java e Tratamento de Exceções" do Bootcamp Bradesco - Java Cloud Native.</p>
+Este repositório contém o projeto "DesafioControleDeFluxo" desenvolvido como parte do Módulo "Java e Tratamento de Exceções" do Bootcamp Bradesco - Java Cloud Native 2025.</p>
 
 ## Desafio - Controle de Fluxo
 
@@ -25,9 +29,7 @@ Este projeto foi desenvolvido e testado nas seguintes condições:
 * IDE: [VSCode] 
 * Sistema Operacional: [Windows 11] 
 
-<p align="center">
-  <img width="300" height="100" src="https://static.wixstatic.com/media/7a378f_5140deabd7d040378d740069cb692b87~mv2.png/v1/crop/x_0,y_10,w_1334,h_493/fill/w_568,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20DIO.png">
-</p>
+
 
 <h4 align="justify">
 
